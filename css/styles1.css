@@ -58,7 +58,7 @@ a:hover {
 
 .mid-container {
     padding-bottom: 100px;
-    background-image: url("bkg.jpg")
+    background-image: url('../images/bkg.jpg')
 }
 
 .bot-container {
